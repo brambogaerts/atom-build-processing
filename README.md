@@ -1,4 +1,4 @@
-# atom-build-processing
+# Processing build system for Atom
 
 Provides [atom-build](https://github.com/noseglid/atom-build) with a build system for Processing. Requires [atom-build](https://github.com/noseglid/atom-build) to be installed.
 

@@ -1,7 +1,7 @@
 {
-  "name": "atom-build-processing",
-  "main": "./lib/atom-build-processing",
-  "version": "0.1.0",
+  "name": "build-processing",
+  "main": "./lib/build-processing",
+  "version": "0.0.0",
   "description": "Processing build system for Atom",
   "keywords": [
     "build",
@@ -9,7 +9,7 @@
     "processing",
     "java"
   ],
-  "repository": "https://github.com/brambogaerts/atom-build-processing",
+  "repository": "https://github.com/brambogaerts/build-processing",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
