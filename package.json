@@ -1,25 +1,25 @@
 {
-	"name": "atom-build-processing",
-	"main": "./lib/atom-build-processing",
-	"version": "0.0.0",
-	"description": "Processing build system for Atom",
-	"keywords": [
-		"build",
-		"compile",
-		"processing",
-		"java"
-	],
-	"repository": "https://github.com/brambogaerts/atom-build-processing",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0"
-	},
-	"providedServices": {
-		"builder": {
-			"description": "Processing build system for Atom",
-			"versions": {
-				"2.0.0": "provide"
-			}
-		}
-	}
+  "name": "atom-build-processing",
+  "main": "./lib/atom-build-processing",
+  "version": "0.1.0",
+  "description": "Processing build system for Atom",
+  "keywords": [
+    "build",
+    "compile",
+    "processing",
+    "java"
+  ],
+  "repository": "https://github.com/brambogaerts/atom-build-processing",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "providedServices": {
+    "builder": {
+      "description": "Processing build system for Atom",
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
 }
