@@ -1,7 +1,7 @@
 {
   "name": "build-processing",
   "main": "./lib/build-processing",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Processing build system for Atom",
   "keywords": [
     "build",
